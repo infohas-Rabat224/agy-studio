@@ -1,0 +1,8 @@
+{
+  "name": "Agy Studio",
+  "description": "Autonomous IDE, Workspace Control Plane & UI for multi-agent orchestration with Monaco editor, terminal, Git GUI, Ghost mode, and adaptive intelligence.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
