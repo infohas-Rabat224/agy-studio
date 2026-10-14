@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+build/
+dist/
+
+# Pytest & Diagnostics
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & Temporary runtime data
+*.log
+data/*
+!data/.gitkeep
+
+# Screenshots & Local link shortcuts
+screenshot_*.png
+*.lnk
+*.tmp
+
+# Large binaries & test executables
+runtime/uv.exe
+skills/kimi-xlsx/scripts/KimiXlsx
+scripts/*_test.exe
+scripts/TestPickerQuick.exe
+scripts/test_picker_full.exe
+
+# Ephemeral test directories
+Test Workspace/
+Test Workspace 2/
+Test Workspace Spaced/
+Test_Dossier_*/
+测试/
+
+# Local credentials & system files
+.env
+.DS_Store
+Thumbs.db
